@@ -7,8 +7,7 @@ TracerMinDistance: 60 # Minimum distance for tracers to appear
 PilotTool: 280
 WorldGuardBlockMoveOnBuildPerm: true
 WorldGuardBlockSinkOnPVPPerm: true
-ManOverboardTimeout: 30
-ManOverboardDistance: 1000 # maximum distance from a craft that you can manoverboard to it
+ManOverBoardTimeout: 30
 FireballLifespan: 6
 FireballPenetration: true
 ProtectPilotedCrafts: true
