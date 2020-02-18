@@ -16,9 +16,7 @@ Older builds (1.10 and below) are located on the [Spigot forums](https://www.spi
 ## Building
 Movecraft uses multiple versions of the Spigot server software for legacy support. As such, you need to run [BuildTools](https://www.spigotmc.org/wiki/buildtools/) for several versions before building the plugin. It doesn't matter where you do this, but inside the Movecraft directory is probably a bad place.
 
-```
-Get some pre-compiled craftbukkit & spigot .jar(s) (Spigot-MC 1.10.2 to 1.12.X), here:
-```
+Get some pre-compiled dependancy `.jar`(s) (Spigot-MC 1.10.2 to 1.12.X) [HERE](https://drive.google.com/drive/folders/11yJICZ8IlmV3uEw1QPp9fMmNIJsW57RU?usp=sharing), and put all the `.jar`(s) in the `libs` folder.
 
 Then, run the following to build Movecraft through `maven`.
 ```
